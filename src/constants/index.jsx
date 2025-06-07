@@ -49,7 +49,7 @@ export const features = [
   export const faq = [
     {
       id: "0",
-      question: "How easy is it to setup Xora?",
+      question: "How easy is it to setup Xora? and I WILL MODIFY MORE OVER",
       answer:
         "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
     },
@@ -145,7 +145,7 @@ export const features = [
       title: "Team",
       priceMonthly: 39,
       priceYearly: 29,
-      caption: "Exclusively for teams menmber from GUNA",
+      caption: "Exclusively for teams",
       features: [
         "All Overdrive features",
         "10TB additional storage",
