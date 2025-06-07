@@ -129,7 +129,7 @@ export const features = [
       id: "1",
       title: "Overdrive",
       priceMonthly: 79,
-      priceYearly: 30,
+      priceYearly: 50,
       caption: "Most popular plan",
       features: [
         "All Starter features",
@@ -145,7 +145,7 @@ export const features = [
       title: "Team",
       priceMonthly: 39,
       priceYearly: 29,
-      caption: "Exclusively for teams",
+      caption: "Exclusively for teams menmber from GUNA",
       features: [
         "All Overdrive features",
         "10TB additional storage",
